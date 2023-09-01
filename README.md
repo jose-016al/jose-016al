@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jose</h1>
-<h3 align="center">A passionate frontend developer from Spain</h3>
+![banner](.img/Banner%20-%20github.png)
 
 ```python
 code = ['Java', 'Python', 'JavaScript', 'PHP']
