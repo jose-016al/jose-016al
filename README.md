@@ -1,6 +1,6 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Jose" alt="Typing SVG" /></a></p>
 
-![banner](.img/Banner%20-%20github.jpg)
+![banner](.img/Banner.png)
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> &nbsp;About me
 
