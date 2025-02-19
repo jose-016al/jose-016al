@@ -28,10 +28,12 @@
   </div>
   <div style="flex: 1; padding: 10px;">
     <h3 align="center">Frameworks</h3>
-    <p align="center">
-      <img src="https://img.shields.io/badge/React.js%20-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React.js">
-      <img src="https://img.shields.io/badge/Symfony%20-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony">
-    </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React.js%20-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="React.js">
+  <img src="https://img.shields.io/badge/Symfony%20-%2300A99D.svg?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony">
+  <img src="https://img.shields.io/badge/Spring%20Boot%20-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+</p>
+
   </div>
   <div style="flex: 1; padding: 10px;">
     <h3 align="center">Technologies and Tools</h3>
